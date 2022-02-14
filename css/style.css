@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap");
+
+:root {
+  --primary-color: #00607a;
+  --secondary-color: #005066;
+  --Midnight-green-eagle-green: #004052;
+  --gunmetal: #00303d;
+  --dark-jungle-green: #002029;
+  --honeydew: #f1faee;
+  /* Other Palette
+    https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557 */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
